@@ -1,1 +1,6 @@
-A collection of mini projects using HTML, CSS, and JavaScript, built to demonstrate core front-end skills. These projects include dynamic UIs, responsive designs, form validation, and interactive features. Each showcases practical applications of web technologies, enhancing my skills in creating engaging and user-friendly interfaces.
+steps to run :
+1----Open index.html file in vs code or any other platform. 
+2----If u have live server extension in vs code open with it or run the code.
+3-----Finally output is shown in browser window.
+
+----------------------------Thank You---------------------------------------
